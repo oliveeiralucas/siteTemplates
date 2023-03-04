@@ -6,11 +6,11 @@ Nesse repositório vou adicionar alguns modelos de template que gostei e que pod
 <hr>
 <samp><h1> Sites Úteis </h1></samp>
 <ul>
-<li> https://getbootstrap.com/ </li> - Templates pré construídos
-<li> https://fontawesome.com/docs </li>- Ícones 
-<li> https://tailwindcss.com/ </li>- CSS
-<li> https://devicon.dev/ </li> - DEVIcons
-<li> https://www.shutterstock.com/pt/search?image_type=vector </li>- Imagens de vetor
+<li> https://getbootstrap.com/ - Templates pré construídos </li>
+<li> https://fontawesome.com/docs - Ícones </li>
+<li> https://tailwindcss.com/  - CSS </li>
+<li> https://devicon.dev/   - DEVIcons </li>
+<li> https://www.shutterstock.com/pt/search?image_type=vector  - Imagens de vetor </li>
 </ul>
 
 <hr>
