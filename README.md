@@ -5,12 +5,13 @@ Nesse repositório vou adicionar alguns modelos de template que gostei e que pod
 
 <hr>
 <samp><h1> Sites Úteis </h1></samp>
-https://getbootstrap.com/ - Templates pré construídos
-https://fontawesome.com/docs - Ícones 
-https://tailwindcss.com/ - CSS
-https://devicon.dev/  - DEVIcons
-https://www.shutterstock.com/pt/search?image_type=vector - Imagens de vetor
-
+<ul>
+<li> https://getbootstrap.com/ </li> - Templates pré construídos
+<li> https://fontawesome.com/docs </li>- Ícones 
+<li> https://tailwindcss.com/ </li>- CSS
+<li> https://devicon.dev/ </li> - DEVIcons
+<li> https://www.shutterstock.com/pt/search?image_type=vector </li>- Imagens de vetor
+</ul>
 
 <hr>
 <samp><h1> Templates </h1></samp>
@@ -22,18 +23,22 @@ https://github.com/hrshadhin/school-website
 
 
 <samp><h4> Template para Portfólio </samp></h4>
-https://github.com/bedimcode/responsive-portfolio-website-Alexa 
-https://github.com/ishandeveloper/Portfolio
+<ul>
+<li> https://github.com/bedimcode/responsive-portfolio-website-Alexa 
+<li> https://github.com/ishandeveloper/Portfolio
+</ul>
 <hr>
 
 
 <samp><h4> Template para sites </samp></h4>
-https://github.com/rampatra/wedding-website
-https://github.com/alitahir4024/Limerick
-https://github.com/Vins2106/Free-Discord-Bot-Website
-https://github.com/bedimcode/responsive-sushi-website
-https://github.com/onwidget/astrowind
-<hr>
+<ul>
+<li> https://github.com/rampatra/wedding-website
+<li> https://github.com/alitahir4024/Limerick
+<li> https://github.com/Vins2106/Free-Discord-Bot-Website
+<li> https://github.com/bedimcode/responsive-sushi-website
+<li> https://github.com/onwidget/astrowind
+</ul>
+  <hr>
 
 
 <samp><h4> Templates para site de apps </samp></h4>
@@ -42,6 +47,7 @@ https://github.com/uisual/freebies
 
 
 <samp><h4> Outros Sites </samp></h4>
+<ul>
 https://github.com/uisual/freebies
 https://github.com/learning-zone/website-templates
 https://github.com/learning-zone/website-templates/above-educational-bootstrap-responsive-template/
@@ -53,7 +59,7 @@ https://github.com/learning-zone/website-templates/darktouch-corporate-portfolio
 https://github.com/learning-zone/website-templates/cloud-hosting-free-bootstrap-responsive-website-template/ -> web Template
 https://github.com/learning-zone/website-templates/startbootstrap-stylish-portfolio-1.0.2/ -> web template
 https://github.com/learning-zone/website-templates/reveal/ -> clear web template
-
+</ul>
 
 <hr>
 <samp><h1> License </h1></samp>
