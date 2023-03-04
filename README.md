@@ -5,12 +5,12 @@ Nesse repositório vou adicionar alguns modelos de template que gostei e que pod
 
 <hr>
 <samp><h1> Sites Úteis </h1></samp>
-
 https://getbootstrap.com/ - Templates pré construídos
-
 https://fontawesome.com/docs - Ícones 
-
 https://tailwindcss.com/ - CSS
+https://devicon.dev/  - DEVIcons
+https://www.shutterstock.com/pt/search?image_type=vector - Imagens de vetor
+
 
 <hr>
 <samp><h1> Templates </h1></samp>
@@ -26,19 +26,33 @@ https://github.com/bedimcode/responsive-portfolio-website-Alexa
 https://github.com/ishandeveloper/Portfolio
 <hr>
 
+
 <samp><h4> Template para sites </samp></h4>
 https://github.com/rampatra/wedding-website
 https://github.com/alitahir4024/Limerick
 https://github.com/Vins2106/Free-Discord-Bot-Website
 https://github.com/bedimcode/responsive-sushi-website
-<hr>
-
-<samp><h4> Astro Wind </samp></h4>
 https://github.com/onwidget/astrowind
+<hr>
 
 
 <samp><h4> Templates para site de apps </samp></h4>
 https://github.com/uisual/freebies
+<hr>
+
+
+<samp><h4> Outros Sites </samp></h4>
+https://github.com/uisual/freebies
+https://github.com/learning-zone/website-templates
+https://github.com/learning-zone/website-templates/above-educational-bootstrap-responsive-template/
+https://github.com/learning-zone/website-templates/insight-free-bootstrap-html5-admin-template/ -> Admin Template
+https://github.com/learning-zone/website-templates/john-bootstrap-one-page-html5-free-resume-template/ -> Portfólio
+https://github.com/learning-zone/website-templates/johndoe-portfolio-resume-bootstrap-template/ -> Portfólio
+https://github.com/learning-zone/website-templates/me-resume-personal-portfolio-responsive-template/ -> Portfolio
+https://github.com/learning-zone/website-templates/darktouch-corporate-portfolio-bootstrap-responsive-web-template/ -> web template
+https://github.com/learning-zone/website-templates/cloud-hosting-free-bootstrap-responsive-website-template/ -> web Template
+https://github.com/learning-zone/website-templates/startbootstrap-stylish-portfolio-1.0.2/ -> web template
+https://github.com/learning-zone/website-templates/reveal/ -> clear web template
 
 
 <hr>
