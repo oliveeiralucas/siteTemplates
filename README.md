@@ -11,6 +11,7 @@ Nesse repositório vou adicionar alguns modelos de template que gostei e que pod
 <li> https://tailwindcss.com/  - CSS </li>
 <li> https://devicon.dev/   - DEVIcons </li>
 <li> https://www.shutterstock.com/pt/search?image_type=vector  - Imagens de vetor </li>
+<li> https://github.com/iuricode/readme-template/edit/main/repository/repository.md - Base README.MD </li>
 </ul>
 
 <hr>
