@@ -13,11 +13,10 @@ Nesse repositório vou adicionar alguns modelos de template que gostei e que pod
 <li> https://devicon.dev/   - DEVIcons </li>
 <li> https://www.shutterstock.com/pt/search?image_type=vector  - Imagens de vetor </li>
 <li> https://github.com/iuricode/readme-template/edit/main/repository/repository.md - Base README.MD </li>
+<li> https://sass-lang.com/ - SASS </li>
+<li> https://api.jquery.com/ - JQUERY </li>
+<li> https://vuejs.org/ - VUEJS </li>
 </ul>
-* https://sass-lang.com/ - SASS
-* https://api.jquery.com/ - JQUERY
-* https://vuejs.org/ - VUEJS
-
 <hr>
 <samp><h1> Templates </h1></samp>
 
