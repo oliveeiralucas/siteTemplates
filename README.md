@@ -1,4 +1,5 @@
 # SiteTemplates
+
 Esses são alguns templates para usar como base para a criação de sites
 
 Nesse repositório vou adicionar alguns modelos de template que gostei e que poderei usar como base para projetos futuros
@@ -13,6 +14,9 @@ Nesse repositório vou adicionar alguns modelos de template que gostei e que pod
 <li> https://www.shutterstock.com/pt/search?image_type=vector  - Imagens de vetor </li>
 <li> https://github.com/iuricode/readme-template/edit/main/repository/repository.md - Base README.MD </li>
 </ul>
+* https://sass-lang.com/ - SASS
+* https://api.jquery.com/ - JQUERY
+* https://vuejs.org/ - VUEJS
 
 <hr>
 <samp><h1> Templates </h1></samp>
