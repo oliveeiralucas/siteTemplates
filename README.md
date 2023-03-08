@@ -16,6 +16,8 @@ Nesse repositório vou adicionar alguns modelos de template que gostei e que pod
 <li> https://sass-lang.com/ - SASS </li>
 <li> https://api.jquery.com/ - JQUERY </li>
 <li> https://vuejs.org/ - VUEJS </li>
+<li> https://fonts.google.com/ - Google Fonts</li> 
+<li> https://www.figma.com/ - Interface Design Tool </li>
 </ul>
 <hr>
 <samp><h1> Templates </h1></samp>
