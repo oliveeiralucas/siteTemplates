@@ -1,0 +1,13 @@
+<!DOCTYPE>
+  <html lang="pt-br">
+  
+  <meta charset="UTF-8"> // especifica o conjunto de caracteres usado na página.
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> //controla como a página é exibida em dispositivos móveis, definindo a largura da tela e a escala inicial.
+  
+  <meta name="description" content="Descrição da página"> // fornece uma breve descrição da página para os mecanismos de pesquisa e os usuários.
+  
+  <meta name="keywords" content="palavras-chave separadas por vírgulas"> //Lista as palavras-chave relacionadas ao conteúdo da página.
+  
+  <meta name="author" content="Nome do autor"> //especifica o nome do autor da página.
+  </html>
